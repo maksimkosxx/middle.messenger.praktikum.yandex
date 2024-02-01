@@ -13,7 +13,6 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
-    "lodash-es": "^4.17.21",
     "vite-plugin-handlebars": "^2.0.0"
   }
 }
